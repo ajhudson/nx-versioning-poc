@@ -1,5 +1,5 @@
 {
-  "name": "@ajhudson@first-lib",
+  "name": "@ajhudson/first-lib",
   "version": "0.0.1",
   "main": "./index.js",
   "types": "./index.d.ts",
