@@ -56,7 +56,8 @@
     "projects": ["libs/*"],
     "projectsRelationship": "independent",
     "git": {
-      "commit": false,
+      "commit": true,
+      "commitMessage": "{projectName} has been bumped up to version {version}",
       "stageChanges": false,
       "tag": false
     }
