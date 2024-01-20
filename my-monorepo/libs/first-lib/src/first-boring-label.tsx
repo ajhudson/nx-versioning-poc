@@ -10,7 +10,7 @@ const StyledFirstBoringLabel = styled.div`
 export function FirstBoringLabel(props: FirstBoringLabelProps) {
   return (
     <StyledFirstBoringLabel>
-      <h1>Welcome to FirstBoringLabel!</h1>
+      <h1>Welcome to FirstBoringLabel!!</h1>
     </StyledFirstBoringLabel>
   );
 }
